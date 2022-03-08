@@ -5,12 +5,14 @@
 .myname{color:#FFA500;}   
 .part1{display: flex;}
 .box-1,.box-2{width: 50%;padding: 50px 0px 0px 100px;
-            font-size:35px ;}
-.box-2{}            
+            font-size:35px ;}           
 .box-2 img{width: 600px;}
 
 .button{border: 1px solid red;
         border-radius:15px;background-color:red;
         color: white;text-decoration: none;
-        padding: 30px;font-size:40px;
-        font-weight:800;}
+        padding: 5px 40px;font-size:40px;
+        font-weight:600;}
+ .REG{text-decoration: none;
+     border: 1px solid Black;}
+   

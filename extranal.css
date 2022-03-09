@@ -1,11 +1,8 @@
- body{font-family: 'Outfit', sans-serif;
-    font-family: 'Poppins', sans-serif;
-     background-image:url(img/top-banner.png);
-     background-repeat: no-repeat;}
+ body{font-family: 'Poppins', sans-serif;}
 .myname{color:#FFA500;}   
 .part1{display: flex;}
 .box-1,.box-2{width: 50%;padding: 50px 0px 0px 100px;
-            font-size:35px ;}           
+            font-size:35px;}           
 .box-2 img{width: 600px;}
 
 .button{border: 1px solid red;
@@ -15,4 +12,10 @@
         font-weight:600;}
  .REG{text-decoration: none;
      border: 1px solid Black;}
+
+.part2{display: flex; background-image: url(img/dream-bg.png);
+        background-repeat: no-repeat;background-position: right;
+        font-size:35px;margin-top:100px;padding: 80px;}     
+.box3,.box4{width: 50%;}
+.box4 p{text-align:justify;}
    

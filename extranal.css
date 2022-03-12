@@ -18,6 +18,15 @@
         font-size:35px;margin-top:100px;padding: 80px;}     
 .box3,.box4{width: 50%;}
 .box4 p{text-align:justify;}
+.part-3{background-image: url(img/exp-bg.png);background-repeat: no-repeat;
+        background-position: left;display: flex;
+        height: 800px;border: 1px solid black;}
+
+.box-5,.box-6{width: 50%;margin: 60px;
+              box-shadow: 5px 7px 50px  gray;
+               height: 80%;} 
+.box-5{border-left: 15px #FF8A68 solid;
+        }       
    
 
 

@@ -20,7 +20,7 @@
 .box4 p{text-align:justify;}
 .part-3{background-image: url(img/exp-bg.png);background-repeat: no-repeat;
         background-position: left;display: flex;font-size: 25px;
-        height: 800px;border: 1px solid black;}
+        height: 800px;}
 
 .box-5,.box-6{width: 50%;margin: 60px;
               box-shadow: 5px 7px 50px  gray;
